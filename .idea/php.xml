@@ -43,5 +43,10 @@
       <path value="$PROJECT_DIR$/vendor/symfony/form" />
     </include_path>
   </component>
-  <component name="PhpProjectSharedConfiguration" php_language_level="5.5.0" />
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <phpunit_by_deployment server_id="0d2a0953-fca3-48ae-8b11-579753f8a9d0" load_method="CUSTOM_LOADER" custom_loader_path="C:\myprogrammes\xamp\htdocs\symfonyProjet\src\AppBundle\AppBundle.php" phpunit_phar_path="" />
+    </phpunit_settings>
+  </component>
 </project>

@@ -1,3 +1,11 @@
 app:
     resource: '@AppBundle/Controller/'
     type: annotation
+
+main_form:
+    path: /mainform
+    controller: AppBundle\Controller\MainFormController:new
+
+infos:
+    path: /infos
+    controller: AppBundle\Controller\InfosController::hello
